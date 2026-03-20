@@ -91,6 +91,3 @@ Onboard a new employee:
 * ✅ Manager is notified
 * ✅ Tickets are created
 * ✅ Meeting is scheduled
-
-
-But for now — **yes, this is absolutely enough to push to GitHub** 🚀
